@@ -1,0 +1,9 @@
+shopping list
+
+fish
+bread
+egg
+chicken
+oil
+cow
+bird
