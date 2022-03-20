@@ -1,2 +1,9 @@
 # Githubsch
-my report card
+my shopping list
+
+orange
+plum 
+coconut 
+butter pea
+
+
